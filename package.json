@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "algorithmia": "^0.3.10",
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.3",
+    "readline-sync": "^1.4.10"
+  }
+}
